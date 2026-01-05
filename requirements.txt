@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+scipy
+implicit
+tqdm
+lightgbm
+pyarrow
+fastapi
+uvicorn[standard]
+joblib
